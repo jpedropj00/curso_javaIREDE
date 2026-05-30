@@ -16,5 +16,6 @@ public class ExProduto {
 		produto.getPreco();
 		produto.getQuantidadeEstoque();
 		produto.setPreco(80.0);
+		produto.preco = 80.0 //Inválido, pois o atributo é privado.
 	}
 }
