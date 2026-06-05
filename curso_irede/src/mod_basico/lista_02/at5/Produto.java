@@ -1,4 +1,4 @@
-package lista_02.at6;
+package lista_02.at5;
 
 public class Produto {
 	private String nome;
